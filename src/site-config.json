@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Flooring Kingdom",
+    "phone": "+13055084269",
+    "category": "flooring installer",
+    "city": "Miami",
+    "state": "FL"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Miami's Flooring Experts",
+      "heroSubline": "Durable, beautiful floors built to withstand the South Florida climate. Proudly serving Miami-Dade and beyond.",
+      "aboutTitle": "Decades of Flooring Excellence in Miami",
+      "aboutText": [
+        "Flooring Kingdom started with a simple mission: provide Miami homes and businesses with flooring solutions that last. Founded by local craftsman, Javier Rodriguez, we understood the unique challenges of our climate – the humidity, the sun, the occasional hurricane – and built a company to meet them head-on.",
+        "We're not just installers; we're flooring specialists. We meticulously assess every space, consider the wear and tear it will endure, and recommend the best materials and techniques for the job. Our commitment to quality craftsmanship and open communication ensures your complete satisfaction.",
+        "Miami is our home, and we take pride in contributing to its vibrant community. We source materials locally whenever possible, partner with local contractors, and actively support neighborhood initiatives. When you choose Flooring Kingdom, you're investing in Miami."
+      ],
+      "valueProps": [
+        {
+          "title": "Climate-Resistant Materials",
+          "description": "We specialize in flooring designed to withstand Miami's heat, humidity, and potential flooding, ensuring lasting beauty and performance."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team has years of experience installing all types of flooring, from hardwood to tile, with precision and care."
+        },
+        {
+          "title": "Comprehensive Consultation",
+          "description": "We provide personalized consultations to understand your needs, budget, and style, guiding you through the entire process."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work with a satisfaction guarantee. We're not happy until you are."
+        }
+      ],
+      "ctaHeadline": "Transform Your Space Today",
+      "ctaSubline": "Get a free quote and discover the perfect flooring solution for your Miami home or business."
+    },
+    "services": [
+      {
+        "slug": "hardwood-flooring",
+        "name": "Hardwood Flooring Installation",
+        "shortDescription": "Timeless elegance and lasting value for your Miami home.",
+        "description": "Bring the warmth and beauty of hardwood to your Miami residence. We offer a wide selection of hardwood species, finishes, and installation patterns to complement any style. Our team understands the challenges of installing hardwood in a humid climate like Miami. We use moisture-resistant underlayments and proper acclimation techniques to prevent warping and ensure long-lasting performance.\n\nWe handle every step of the process, from subfloor preparation to precise installation and finishing. Whether you prefer the classic look of oak, the exotic appeal of Brazilian cherry, or the durability of engineered hardwood, we have the perfect solution for your needs. We also offer hardwood refinishing services to restore the beauty of your existing floors.\n\nConsider the impact of direct sunlight on your hardwood. We can recommend UV-resistant finishes to minimize fading and maintain the floor's rich color. With proper care and maintenance, your hardwood floors will add value and beauty to your Miami home for years to come.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision, assess your space, and select the perfect hardwood flooring.",
+          "Step 2: Subfloor Preparation – We ensure a level, stable subfloor for optimal installation and longevity.",
+          "Step 3: Professional Installation – Our skilled installers use precise techniques and attention to detail.",
+          "Step 4: Finishing and Sealing – We apply protective finishes to enhance durability and beauty."
+        ],
+        "benefits": [
+          "Adds timeless elegance and value to your home",
+          "Provides a warm and inviting atmosphere",
+          "Increases property value",
+          "Offers a variety of styles and finishes"
+        ],
+        "faq": [
+          {
+            "question": "Is hardwood flooring suitable for Miami's humid climate?",
+            "answer": "Yes, with proper installation and maintenance. We use moisture-resistant underlayments and recommend engineered hardwood for areas prone to moisture."
+          },
+          {
+            "question": "How often should I refinish my hardwood floors?",
+            "answer": "Typically every 7-10 years, depending on foot traffic and wear and tear. We offer professional refinishing services to restore your floors to their original beauty."
+          },
+          {
+            "question": "What is the best way to clean hardwood floors?",
+            "answer": "Use a damp mop with a pH-neutral cleaner specifically designed for hardwood floors. Avoid excessive water and harsh chemicals."
+          }
+        ]
+      },
+      {
+        "slug": "tile-flooring",
+        "name": "Tile Flooring Installation",
+        "shortDescription": "Durable, stylish, and water-resistant tile solutions for Miami homes.",
+        "description": "Tile flooring is an excellent choice for Miami homes due to its durability, water resistance, and versatility. From kitchens and bathrooms to patios and poolsides, tile can withstand the elements and maintain its beauty for years to come. We offer a wide selection of tile materials, including ceramic, porcelain, and natural stone, in a variety of colors, sizes, and patterns.\n\nOur experienced installers are skilled in all aspects of tile installation, from subfloor preparation to precise tile placement and grouting. We pay close attention to detail to ensure a flawless finish that will enhance the look and value of your home. We understand the importance of proper waterproofing in a humid environment like Miami. We use high-quality waterproofing membranes to prevent moisture damage and mold growth.\n\nConsider the unique style of your Miami neighborhood. From the Art Deco designs of South Beach to the modern aesthetic of Brickell, we can help you choose tile that complements your home's architecture. We also offer custom tile designs to create a truly unique and personalized space.",
+        "process": [
+          "Step 1: Design Consultation – Discuss your style preferences and select the perfect tile for your space.",
+          "Step 2: Subfloor Preparation – Ensure a clean, level, and stable subfloor for optimal tile adhesion.",
+          "Step 3: Expert Installation – Precise tile placement and grouting for a flawless finish.",
+          "Step 4: Sealing and Protection – Apply sealant to protect against stains and moisture."
+        ],
+        "benefits": [
+          "Highly durable and water-resistant",
+          "Easy to clean and maintain",
+          "Offers a wide variety of styles and designs",
+          "Ideal for kitchens, bathrooms, and outdoor spaces"
+        ],
+        "faq": [
+          {
+            "question": "What is the difference between ceramic and porcelain tile?",
+            "answer": "Porcelain tile is denser and more water-resistant than ceramic tile, making it a better choice for high-traffic areas and outdoor applications."
+          },
+          {
+            "question": "How do I clean tile floors?",
+            "answer": "Use a mild detergent and water. Avoid abrasive cleaners that can scratch the surface of the tile."
+          },
+          {
+            "question": "How often should I seal my tile grout?",
+            "answer": "Typically every 1-2 years, depending on the type of grout and the level of use."
+          }
+        ]
+      },
+      {
+        "slug": "laminate-flooring",
+        "name": "Laminate Flooring Installation",
+        "shortDescription": "Affordable, durable, and stylish laminate flooring for Miami homes.",
+        "description": "Laminate flooring offers a cost-effective and durable alternative to hardwood. It's resistant to scratches, stains, and fading, making it an ideal choice for busy households with children and pets. We offer a wide selection of laminate styles, colors, and textures to suit any décor. Our team understands the importance of proper installation to prevent moisture damage in Miami's humid climate.\n\nWe use high-quality underlayments to provide cushioning, sound insulation, and moisture protection. Our experienced installers ensure a seamless and professional finish that will enhance the look of your home. Laminate flooring is easy to clean and maintain, making it a practical choice for busy families. Consider the location of your home when selecting laminate flooring. Waterfront properties in areas like Coconut Grove may require additional moisture protection.\n\nWe also offer laminate flooring with waterproof cores for added peace of mind. With proper care and maintenance, your laminate floors will provide years of beauty and performance.",
+        "process": [
+          "Step 1: Selection & Consultation – Choose your preferred laminate style and discuss your specific needs.",
+          "Step 2: Subfloor Assessment – Ensure a level and dry subfloor for proper installation.",
+          "Step 3: Precise Installation – Our team installs your laminate flooring with attention to detail.",
+          "Step 4: Finishing Touches – We add baseboards and transition strips for a polished look."
+        ],
+        "benefits": [
+          "Affordable and budget-friendly",
+          "Durable and scratch-resistant",
+          "Easy to clean and maintain",
+          "Offers a wide variety of styles and colors"
+        ],
+        "faq": [
+          {
+            "question": "Is laminate flooring waterproof?",
+            "answer": "Some laminate flooring is water-resistant, while others have a waterproof core. We can help you choose the right option for your needs."
+          },
+          {
+            "question": "How do I clean laminate floors?",
+            "answer": "Use a damp mop with a pH-neutral cleaner specifically designed for laminate floors. Avoid excessive water and harsh chemicals."
+          },
+          {
+            "question": "Can I install laminate flooring over existing flooring?",
+            "answer": "It depends on the condition of the existing flooring. We can assess your subfloor and advise you on the best course of action."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-flooring",
+        "name": "Vinyl Flooring Installation",
+        "shortDescription": "Waterproof, durable, and stylish vinyl flooring for Miami homes and businesses.",
+        "description": "Vinyl flooring is a versatile and affordable option for both residential and commercial spaces in Miami. It's waterproof, durable, and easy to maintain, making it ideal for kitchens, bathrooms, and high-traffic areas. We offer a wide selection of vinyl styles, including luxury vinyl plank (LVP) and luxury vinyl tile (LVT), that mimic the look of hardwood and tile. \n\nOur experienced installers ensure a seamless and professional finish that will enhance the look of your space. We use high-quality adhesives and installation techniques to prevent peeling and warping in Miami's humid climate. We understand the importance of proper subfloor preparation to ensure a long-lasting and durable vinyl floor. Consider the style of your Miami neighborhood when selecting vinyl flooring. From the modern designs of Wynwood to the traditional styles of Coral Gables, we can help you choose vinyl that complements your space.\n\nWe also offer commercial-grade vinyl flooring for businesses with high foot traffic. With proper care and maintenance, your vinyl floors will provide years of beauty and performance.",
+        "process": [
+          "Step 1: Consultation and Design – We help you choose the perfect vinyl flooring to match your style and needs.",
+          "Step 2: Subfloor Preparation – Ensuring a smooth, clean, and level surface for optimal adhesion.",
+          "Step 3: Professional Installation – Precise cutting and installation for a seamless finish.",
+          "Step 4: Sealing and Finishing – Adding protective sealants for enhanced durability and water resistance."
+        ],
+        "benefits": [
+          "Waterproof and highly durable",
+          "Easy to clean and maintain",
+          "Available in a wide range of styles and colors",
+          "Ideal for kitchens, bathrooms, and commercial spaces"
+        ],
+        "faq": [
+          {
+            "question": "Is vinyl flooring suitable for bathrooms?",
+            "answer": "Yes, vinyl flooring is an excellent choice for bathrooms due to its waterproof properties."
+          },
+          {
+            "question": "How do I clean vinyl floors?",
+            "answer": "Use a damp mop with a pH-neutral cleaner. Avoid abrasive cleaners and harsh chemicals."
+          },
+          {
+            "question": "How long does vinyl flooring last?",
+            "answer": "With proper care and maintenance, vinyl flooring can last for 10-20 years."
+          }
+        ]
+      },
+      {
+        "slug": "flooring-repair",
+        "name": "Flooring Repair Services",
+        "shortDescription": "Expert flooring repair to restore the beauty and safety of your Miami floors.",
+        "description": "Don't let damaged floors detract from the beauty and value of your Miami home. We offer comprehensive flooring repair services to address a wide range of issues, from minor scratches and dents to major water damage and structural problems. Our experienced technicians can repair hardwood, tile, laminate, and vinyl flooring, restoring them to their original condition.\n\nWe understand the unique challenges of repairing floors in a humid climate like Miami. We use moisture-resistant materials and techniques to prevent further damage and ensure long-lasting repairs. We also offer color matching services to seamlessly blend repairs with your existing flooring. Consider the age of your home when requesting flooring repairs. Older homes in areas like Little Havana may require specialized techniques to address underlying structural issues.\n\nWe provide free estimates and transparent pricing, so you know exactly what to expect before we begin work. With Flooring Kingdom, you can trust that your flooring repairs will be done right the first time.",
+        "process": [
+          "Step 1: Assessment – We evaluate the damage and provide a detailed repair plan.",
+          "Step 2: Preparation – We prepare the area for repair, ensuring a clean and stable surface.",
+          "Step 3: Repair – Our skilled technicians perform the necessary repairs with precision.",
+          "Step 4: Finishing – We blend the repair seamlessly with your existing flooring."
+        ],
+        "benefits": [
+          "Restores the beauty and safety of your floors",
+          "Prevents further damage and costly replacements",
+          "Extends the life of your flooring",
+          "Increases property value"
+        ],
+        "faq": [
+          {
+            "question": "How much does flooring repair cost?",
+            "answer": "The cost of flooring repair depends on the extent of the damage and the type of flooring. We offer free estimates."
+          },
+          {
+            "question": "Can you repair water-damaged flooring?",
+            "answer": "Yes, we can repair water-damaged flooring, but it's important to address the underlying moisture issue to prevent further damage."
+          },
+          {
+            "question": "Do you offer color matching services?",
+            "answer": "Yes, we offer color matching services to seamlessly blend repairs with your existing flooring."
+          }
+        ]
+      },
+      {
+        "slug": "subfloor-services",
+        "name": "Subfloor Installation & Repair",
+        "shortDescription": "Ensure a solid foundation with our expert subfloor services in Miami.",
+        "description": "A solid and level subfloor is crucial for the longevity and performance of any flooring installation. We provide comprehensive subfloor services to ensure your floors have a stable and reliable foundation. Whether you need subfloor installation for a new construction project or subfloor repair for an existing home, we have the expertise and experience to get the job done right.\n\nWe understand the unique challenges of working with subfloors in Miami's humid climate. We use moisture-resistant materials and techniques to prevent warping, rot, and mold growth. Our team can assess the condition of your existing subfloor and recommend the appropriate repairs or replacement. Consider the type of flooring you plan to install when choosing a subfloor material. Hardwood floors require a different subfloor than tile or vinyl.\n\nWe also offer subfloor leveling services to ensure a smooth and even surface for your new flooring. With Flooring Kingdom, you can trust that your subfloor will be installed or repaired to the highest standards.",
+        "process": [
+          "Step 1: Inspection – We thoroughly inspect your existing subfloor to assess its condition.",
+          "Step 2: Preparation – We remove any damaged or unstable materials.",
+          "Step 3: Installation/Repair – We install a new subfloor or repair the existing one with precision.",
+          "Step 4: Leveling – We ensure a level surface for optimal flooring installation."
+        ],
+        "benefits": [
+          "Provides a stable and level foundation for your floors",
+          "Prevents moisture damage and mold growth",
+          "Extends the life of your flooring",
+          "Ensures a smooth and even surface"
+        ],
+        "faq": [
+          {
+            "question": "Why is a proper subfloor important?",
+            "answer": "A proper subfloor provides a stable, level, and moisture-resistant foundation for your flooring, preventing warping, cracking, and other problems."
+          },
+          {
+            "question": "How do I know if my subfloor needs repair?",
+            "answer": "Signs of subfloor damage include squeaking, unevenness, and visible water damage."
+          },
+          {
+            "question": "What types of subfloor materials do you use?",
+            "answer": "We use a variety of subfloor materials, including plywood, OSB, and concrete, depending on the specific needs of the project."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Fort Lauderdale",
+        "slug": "fort-lauderdale-fl",
+        "state": "FL",
+        "content": "Flooring Kingdom is proud to offer our comprehensive flooring installation services to the residents of Fort Lauderdale. We understand the unique character of this vibrant city, from its iconic 1960s and 70s waterfront homes to its bustling downtown area. Our team is experienced in working with a variety of flooring types suitable for the Fort Lauderdale climate, ensuring your new floors are both beautiful and durable. We are committed to providing top-quality craftsmanship and exceptional customer service to every client in Fort Lauderdale.\n\nGiven Fort Lauderdale's year-round heat and humidity, selecting the appropriate flooring is essential. We specialize in installing waterproof and water-resistant options like luxury vinyl plank (LVP), tile, and engineered hardwood, which are ideal for coastal living. Our expert installers will ensure a proper installation, minimizing the risk of moisture damage and extending the life of your new floors. Whether you're renovating a classic waterfront property or updating a modern condo, Flooring Kingdom has the perfect flooring solution for your needs.",
+        "localContext": "Flooring Kingdom understands the unique architectural styles and climate considerations of Fort Lauderdale, offering flooring solutions tailored to the city's specific needs.",
+        "nearbyAreas": [
+          "Pompano Beach",
+          "Hollywood",
+          "Wilton Manors"
+        ]
+      },
+      {
+        "city": "Coral Springs",
+        "slug": "coral-springs-fl",
+        "state": "FL",
+        "content": "Flooring Kingdom is your trusted flooring installation partner in Coral Springs. As a planned community known for its family-friendly atmosphere and well-maintained homes from the 1980s and 90s, Coral Springs residents value quality and aesthetics. We offer a wide selection of flooring options to complement the diverse architectural styles found throughout the city, from cozy single-family homes to spacious townhouses. Our experienced installers are dedicated to delivering exceptional results and ensuring your complete satisfaction.\n\nWe understand the importance of selecting durable and low-maintenance flooring options in Coral Springs' warm and humid climate. That's why we offer a variety of water-resistant and easy-to-clean materials, such as tile, laminate, and vinyl. Our team can help you choose the perfect flooring to enhance your home's beauty and functionality while withstanding the challenges of the South Florida weather.",
+        "localContext": "Flooring Kingdom provides flooring solutions designed for the family-oriented lifestyle and architectural styles prevalent in Coral Springs.",
+        "nearbyAreas": [
+          "Parkland",
+          "Tamarac",
+          "Margate"
+        ]
+      },
+      {
+        "city": "Pembroke Pines",
+        "slug": "pembroke-pines-fl",
+        "state": "FL",
+        "content": "Flooring Kingdom is pleased to serve the vibrant community of Pembroke Pines with top-notch flooring installation services. Known for its planned developments and family-friendly environment, Pembroke Pines boasts a variety of modern homes and townhouses. We offer a diverse range of flooring options to suit any style and budget, and our skilled installers are committed to delivering flawless results that exceed your expectations.\n\nGiven Pembroke Pines' year-round heat and humidity, selecting the right flooring is crucial. We specialize in installing flooring that can withstand the South Florida climate, including water-resistant laminate, durable tile, and stylish vinyl plank. Our team will work with you to find the perfect flooring to enhance your home's beauty and functionality, while ensuring long-lasting performance.",
+        "localContext": "Flooring Kingdom provides flooring installation services tailored to the modern homes and climate of Pembroke Pines.",
+        "nearbyAreas": [
+          "Miramar",
+          "Hollywood",
+          "Davie"
+        ]
+      },
+      {
+        "city": "Boca Raton",
+        "slug": "boca-raton-fl",
+        "state": "FL",
+        "content": "Flooring Kingdom is proud to offer premium flooring installation services to the discerning residents of Boca Raton. Known for its luxury waterfront estates and upscale living, Boca Raton demands the highest standards of quality and craftsmanship. We specialize in installing exquisite flooring options that elevate the elegance and sophistication of your home.\n\nFrom luxurious hardwood to stunning marble and durable tile, we offer a wide selection of materials to complement your unique style and preferences. Our experienced installers are meticulous in their attention to detail, ensuring a flawless installation that enhances the beauty and value of your Boca Raton property. Understanding the year-round heat and humidity, we provide optimal flooring solutions.",
+        "localContext": "Flooring Kingdom provides luxury flooring solutions tailored to the upscale homes and discerning tastes of Boca Raton residents.",
+        "nearbyAreas": [
+          "Delray Beach",
+          "Deerfield Beach",
+          "Coconut Creek"
+        ]
+      },
+      {
+        "city": "West Palm Beach",
+        "slug": "west-palm-beach-fl",
+        "state": "FL",
+        "content": "Flooring Kingdom is delighted to provide expert flooring installation services to the residents of West Palm Beach. With its rich history and diverse architectural styles, ranging from 1920s-50s historic homes to modern condominiums, West Palm Beach offers a unique blend of charm and sophistication. We offer a wide range of flooring options to complement any architectural style, and our experienced installers are committed to delivering superior craftsmanship and exceptional customer service.\n\nWe understand the importance of selecting durable and aesthetically pleasing flooring options that can withstand the challenges of the South Florida climate. That's why we offer a variety of water-resistant and easy-to-maintain materials, such as tile, laminate, and vinyl. We also specialize in restoring original hardwood floors in historic homes, preserving their character and beauty for generations to come.",
+        "localContext": "Flooring Kingdom caters to the diverse architectural styles of West Palm Beach, with flooring solutions for both historic homes and modern residences.",
+        "nearbyAreas": [
+          "Palm Beach",
+          "Lake Worth",
+          "Riviera Beach"
+        ]
+      },
+      {
+        "city": "Miami Gardens",
+        "slug": "miami-gardens-fl",
+        "state": "FL",
+        "content": "Flooring Kingdom is proud to offer flooring installation services to Miami Gardens, FL. This vibrant city is known for its diverse community and numerous residential neighborhoods. We offer a wide variety of flooring options suitable for the Miami Gardens climate and home styles. Our commitment is to provide quality service and exceptional results to every customer, making their homes more beautiful and comfortable.\n\nWe understand that selecting the right flooring is crucial in Miami Gardens, with the year-round heat and humidity. We specialize in installing durable and water-resistant options like luxury vinyl plank (LVP), tile, and laminate. Our expert team ensures a proper installation, preventing moisture damage and prolonging the life of your floors. From single-family homes to apartments, Flooring Kingdom has the perfect flooring solution for your needs.",
+        "localContext": "Flooring Kingdom offers flooring solutions tailored to the climate and diverse housing styles of Miami Gardens.",
+        "nearbyAreas": [
+          "Miramar",
+          "Pembroke Pines",
+          "North Miami"
+        ]
+      },
+      {
+        "city": "Hollywood",
+        "slug": "hollywood-fl",
+        "state": "FL",
+        "content": "Flooring Kingdom is your trusted flooring installer in Hollywood, Florida. This coastal city is known for its beautiful beaches, vibrant boardwalk, and diverse neighborhoods. We offer a wide range of flooring options perfect for the Hollywood lifestyle, from beachside condos to family homes. Our experienced team is dedicated to providing high-quality installations and exceptional customer service.\n\nGiven Hollywood's proximity to the ocean and its humid climate, selecting the right flooring is essential. We specialize in water-resistant and durable materials such as tile, vinyl, and treated hardwood. Our experts will help you choose the best flooring to withstand the elements and enhance your home's beauty. Whether you're renovating a beachfront property or updating a family home, Flooring Kingdom is here to help.",
+        "localContext": "Flooring Kingdom provides flooring solutions designed for the coastal environment and varied residences of Hollywood.",
+        "nearbyAreas": [
+          "Fort Lauderdale",
+          "Pembroke Pines",
+          "Miramar"
+        ]
+      },
+      {
+        "city": "Miramar",
+        "slug": "miramar-fl",
+        "state": "FL",
+        "content": "Flooring Kingdom proudly serves the fast-growing city of Miramar, Florida. Known for its diverse community and numerous residential developments, Miramar offers a wide range of housing options. We provide a variety of flooring solutions to suit any home and lifestyle, with a focus on quality, durability, and style. Our team is committed to delivering exceptional service and ensuring customer satisfaction.\n\nIn Miramar's warm and humid climate, choosing the right flooring material is crucial. We specialize in installing water-resistant and easy-to-maintain options like luxury vinyl, tile, and laminate. Our expert installers ensure a seamless installation, providing long-lasting beauty and functionality. From new construction homes to renovations, Flooring Kingdom has the perfect flooring for your Miramar property.",
+        "localContext": "Flooring Kingdom provides flooring options designed for the modern homes and climate conditions of Miramar.",
+        "nearbyAreas": [
+          "Pembroke Pines",
+          "Hollywood",
+          "Miami Gardens"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria G.",
+        "rating": 5,
+        "service": "Tile Flooring Installation",
+        "text": "Flooring Kingdom transformed my kitchen in Coconut Grove! The installers were professional, efficient, and the tile work is impeccable. Javier helped me choose the perfect tile to match my cabinets, and the whole process was stress-free. Highly recommend!",
+        "date": "2024-07-15"
+      },
+      {
+        "name": "David S.",
+        "rating": 4,
+        "service": "Hardwood Flooring Installation",
+        "text": "We had Flooring Kingdom install hardwood in our living room in Brickell. The floors are beautiful, and the crew was very professional. There was a minor delay due to a material shortage, but Javier communicated with us every step of the way and made sure we were happy with the final result.",
+        "date": "2024-08-02"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 5,
+        "service": "Laminate Flooring Installation",
+        "text": "Flooring Kingdom installed laminate flooring in our bedrooms. The price was fair, the installation was quick, and the floors look great! Very happy with the service.",
+        "date": "2024-09-10"
+      },
+      {
+        "name": "Carlos M.",
+        "rating": 5,
+        "service": "Flooring Repair Services",
+        "text": "We had some water damage in our bathroom, and Flooring Kingdom came to the rescue. They repaired the floor quickly and efficiently, and you can't even tell there was ever any damage. Highly recommend their repair services!",
+        "date": "2024-10-05"
+      },
+      {
+        "name": "Luis V.",
+        "rating": 4,
+        "service": "Vinyl Flooring Installation",
+        "text": "Flooring Kingdom installed new vinyl flooring in our office. The floors look great and are very durable. The installation process was smooth and efficient. Would use again.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Sarah K.",
+        "rating": 5,
+        "service": "Hardwood Flooring Installation",
+        "text": "Javier and his crew at Flooring Kingdom are amazing! They installed beautiful hardwood floors throughout my entire home. They were extremely professional, punctual, and meticulous with their work. They even helped me move some heavy furniture. I highly recommend them!",
+        "date": "2024-12-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Flooring Installation Miami | Flooring Kingdom",
+        "description": "Miami's top flooring installer. Hardwood, tile, laminate, vinyl. Expert installation & repair. Free quotes. Call +13055084269."
+      },
+      "about": {
+        "title": "About Flooring Kingdom | Miami Flooring Experts",
+        "description": "Learn about Flooring Kingdom's commitment to quality flooring installation in Miami. Decades of experience, local expertise."
+      },
+      "services": {
+        "title": "Flooring Services | Flooring Kingdom Miami",
+        "description": "Comprehensive flooring services in Miami: Hardwood, tile, laminate, vinyl installation & repair. Expert solutions for every need."
+      },
+      "contact": {
+        "title": "Contact Flooring Kingdom | Miami Flooring",
+        "description": "Contact Flooring Kingdom for free flooring quotes in Miami. Call +13055084269 or fill out our online form."
+      },
+      "reviews": {
+        "title": "Flooring Kingdom Reviews | Miami's Best",
+        "description": "Read reviews from satisfied Flooring Kingdom customers in Miami. See why we're the top choice for flooring installation and repair."
+      },
+      "service-areas": {
+        "title": "Flooring Service Areas | Miami & Beyond",
+        "description": "Flooring Kingdom serves Miami, Fort Lauderdale, Coral Springs, Pembroke Pines, Boca Raton, West Palm Beach."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 15,
+      "projectsCompleted": "1200+",
+      "satisfaction": "98%",
+      "teamSize": "25+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "hardwood-flooring": "/images/service-hardwood-flooring.webp",
+      "tile-flooring": "/images/service-tile-flooring.webp",
+      "laminate-flooring": "/images/service-laminate-flooring.webp",
+      "vinyl-flooring": "/images/service-vinyl-flooring.webp",
+      "flooring-repair": "/images/service-flooring-repair.webp",
+      "subfloor-services": "/images/service-subfloor-services.webp"
+    },
+    "servicesResponsive": {
+      "hardwood-flooring": {
+        "src": "/images/service-hardwood-flooring.webp",
+        "srcset": "/images/service-hardwood-flooring-400w.webp 400w, /images/service-hardwood-flooring-800w.webp 800w, /images/service-hardwood-flooring-1200w.webp 1200w, /images/service-hardwood-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tile-flooring": {
+        "src": "/images/service-tile-flooring.webp",
+        "srcset": "/images/service-tile-flooring-400w.webp 400w, /images/service-tile-flooring-800w.webp 800w, /images/service-tile-flooring-1200w.webp 1200w, /images/service-tile-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "laminate-flooring": {
+        "src": "/images/service-laminate-flooring.webp",
+        "srcset": "/images/service-laminate-flooring-400w.webp 400w, /images/service-laminate-flooring-800w.webp 800w, /images/service-laminate-flooring-1200w.webp 1200w, /images/service-laminate-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-flooring": {
+        "src": "/images/service-vinyl-flooring.webp",
+        "srcset": "/images/service-vinyl-flooring-400w.webp 400w, /images/service-vinyl-flooring-800w.webp 800w, /images/service-vinyl-flooring-1200w.webp 1200w, /images/service-vinyl-flooring.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "flooring-repair": {
+        "src": "/images/service-flooring-repair.webp",
+        "srcset": "/images/service-flooring-repair-400w.webp 400w, /images/service-flooring-repair-800w.webp 800w, /images/service-flooring-repair-1200w.webp 1200w, /images/service-flooring-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "subfloor-services": {
+        "src": "/images/service-subfloor-services.webp",
+        "srcset": "/images/service-subfloor-services-400w.webp 400w, /images/service-subfloor-services-800w.webp 800w, /images/service-subfloor-services-1200w.webp 1200w, /images/service-subfloor-services.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
